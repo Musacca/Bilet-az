@@ -1,0 +1,6 @@
+<resources>
+  <color name="primary">#00B0DD</color>
+  <color name="primary_dark">#0080ab</color>
+  <color name="primaryButton">#FEB20E</color>
+  <color name="positiveButton">#35C772</color>
+</resources>
