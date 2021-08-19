@@ -8,4 +8,6 @@
   <!--Fix typo in sdk-->
   <string name="waiting_message_price_shown">Prices are</string>
   <string name="settings_title_region_settings">Regional settings</string>
+  <string name="facebook_app_id" translatable="false">347830553679386</string>
+  <string name="facebook_client_token" translatable="false">347830553679386|69e7f88ecc308a744b2006300db1bac6</string>
 </resources>

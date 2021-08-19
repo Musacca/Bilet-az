@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/travel-app-android.iml" filepath="$PROJECT_DIR$/.idea/modules/travel-app-android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/travel-app-android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/travel-app-android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Bilet-az.iml" filepath="$PROJECT_DIR$/.idea/modules/Bilet-az.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Bilet-az.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Bilet-az.app.iml" />
     </modules>
   </component>
 </project>
